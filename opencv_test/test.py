@@ -32,4 +32,3 @@ plt.imshow(img1)
 plt.xticks([]) # x축 눈금
 plt.yticks([]) # y축 눈금
 plt.show()
-
